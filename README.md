@@ -10,4 +10,4 @@ Made for my needs.
 
 Just clone the repo to your packages directory:
 
-    git clone git://github.com/noma4i/Migraine.git
+    git clone git://github.com/noma4i/migraine.git
