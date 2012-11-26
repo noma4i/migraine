@@ -1,4 +1,4 @@
-Migrain
+Sublime Text 2 Plugin: Migrain
 ===========================
 
 ## Simple Rails Migrations list viewer
